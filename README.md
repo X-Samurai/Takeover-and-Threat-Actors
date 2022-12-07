@@ -75,6 +75,12 @@
 
 #### In addition, I learned which tool (reconftw) he used from the screenshot he shared on his profile 
 
+![](img/14.png)
+
+![](img/15.png)
+
+![](img/16.png)
+
 #### Result: MinakJinggo1337 = Minakk22 = b4ckl1nk = Zufan Ramadhan = zufan-yp = Yupy Syntax 0xYP = ypxploit = yupy28 (Using different usernames doesn't change the fact that you're retarded.)
 
 #### Of course I tinkered with this topic for a few more hours and found about 44 github accounts.
